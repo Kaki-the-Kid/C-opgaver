@@ -1,6 +1,6 @@
 # C-opgaver
 
-# C materiale
+## C materiale
 
-Det kan være uaoverskueligt at gennemskue hvilke biblioteker man skal bruge i c.
+Det kan være svært, at gennemskue hvilke biblioteker man skal bruge i c.
 https://devdocs.io/c/
